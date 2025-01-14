@@ -384,4 +384,13 @@ ACTIVES = {
 	"USDHKD-OTC": 1382,
 	"USDINR-OTC": 1383,
 	"DOGEUSD-L": 1406,
+	"EURUSD-op": 1861,
+	"EURGBP-op": 1862,
+	"EURJPY-op": 1864,
+	"USDJPY-op": 1865,
+	"GBPJPY-op": 1866,
+	"GBPUSD-op": 1867,
+	"AUDCAD-op": 1868,
+	"AUDJPY-op": 1869,
+	"AUDUSD-op": 1870,
 }
